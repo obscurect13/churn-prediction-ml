@@ -31,7 +31,7 @@ Docker Compose
 ├── fastapi service (API)
 ```
 
-⚖️ Handling Class Imbalance (SMOTE)
+# ⚖️ Handling Class Imbalance (SMOTE)
 
 The dataset is imbalanced, which can bias the model toward the majority class.
 
