@@ -26,6 +26,7 @@ jobs:
 
       - name: Run unit tests
         run: |
+          export PYTHONPATH=$PWD/app:$PWD/src
           pytest -q
 
 
